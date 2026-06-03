@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "bb-graves-neon-jwks-20260604-a028c233",
+      "kty": "RSA",
+      "n": "xA0imwvKfJCJYXZYZDEhA7pPGq0s0HpfX1AaSx6YtPrSoEY58OpMoKo9tMDMk-ONrsxiz9u_5mrQAXtCZk3nFx2N5xrzpFNUmnZvlkOnKyqeSXdZbk6hMX6sAJjOhu4iZkQB7R7QIkvcdstPisAdJTVDR00LQddZSoHQdnGMsHrAexHTY9eHJwwMeLDe88iWKCTsaYj4asa-B4AmxnG4qXPsg_WqkV4ffq5JmZnRWkL1uankwSbm3v_UhX9KQIiryUQ14JN3bHprfz9ptL0tTW8xoGUMmlnoiq_uk7YLw_UEATj7vkCrR4NxcZFiaf9j4UU2dgC0-Vg959vTioQ_qQ",
+      "use": "sig"
+    }
+  ]
+}
